@@ -1,6 +1,7 @@
-// index.js - purpose and description here
-// Author: Your Name
-// Date:
+// Rock-Paper_scissors
+// An implementatio of the game
+// Victoria Pelagio
+// April 23 3034
 
 // Constants
 
@@ -19,3 +20,12 @@ function main() {
 
 // let's get this party started
 main();
+
+//add options per round: rock, paper scissors
+//determine win, lose, and tie conditions of the game
+//give the player a choice between rock paper, scissors
+//random computer selection
+        //rock, paper, scissors
+//determine the winner
+//show results
+//ask to play again
