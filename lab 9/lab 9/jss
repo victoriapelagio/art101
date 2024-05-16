@@ -1,0 +1,12 @@
+<head>jQuery
+    <link rel="stylesheet" type="text/css" href=".../css/site.css">
+    <link rel="stylesheet" type+"text/css" href="css/index.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="js/lab.js" DEFER></script>
+</head>
+
+/*
+lab.js - This simple JavaScript/jQuery script uses buttons to moidify some elements on the pages
+Author; Victoria Pelagio
+May 11, 2024
+*/
