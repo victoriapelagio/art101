@@ -1,7 +1,11 @@
-#my-portrait {
-    width: 500px
-}
-h1 {
-    font-family: cursive;
-    color: blueviolet
+.text p{
+    display: inline-block;
+    max-width: 50%;
+    margin: 3px;
+    padding: 5px 10px;
+    border-radius: 15px;
+    background-color: pink;
+    color: white;
+    font-family: serif;
+    font-size: 0.6em;
 }
